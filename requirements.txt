@@ -1,0 +1,11 @@
+tensorflow-gpu >= 1.7
+numpy >= 1.0
+scipy >= 1.1
+
+visdom
+observations
+
+matplotlib >= 3.0
+scikit-image
+pillow >= 5.0
+
