@@ -41,6 +41,6 @@ were not tested.
  * `make_plots.py` generates plots given performance data
 
 ## Run
-Simply run `python main.py`. Adjust the configuration object created at the bottom of the file as
+Simply run `python src/main.py`. Adjust the configuration object created at the bottom of the file as
 needed, or call one of the predefined functions to reproduce the experiments in the paper.
 
