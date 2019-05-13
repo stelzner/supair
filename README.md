@@ -1,7 +1,7 @@
 # Sum-Product Attend-Infer-Repeat
 
 This is the official implementation of "Sum-Product Attend-Infer-Repeat" (SuPAIR) as presented in
-the paper "[Faster Attend-Infer-Repeat with Tractable Probabilistic Models"](https://ml-research.github.io/papers/stelzner2019icml_SuPAIR.pdf)" by Karl
+the paper "[Faster Attend-Infer-Repeat with Tractable Probabilistic Models](https://ml-research.github.io/papers/stelzner2019icml_SuPAIR.pdf)" by Karl
 Stelzner, Robert Peharz, and Kristian Kersting (ICML 2019).
 
 SuPAIR learns to decompose scenes into objects and background in an unsupervised manner via a 
