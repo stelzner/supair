@@ -44,3 +44,18 @@ were not tested.
 Simply run `python src/main.py`. Adjust the configuration object created at the bottom of the file as
 needed, or call one of the predefined functions to reproduce the experiments in the paper.
 
+## Citation
+If you find this repository, or the ideas presented within useful in your research, please consider citing our paper:
+```
+@inproceedings{stelzner2019supair,
+  title={Faster Attend-Infer-Repeat with Tractable Probabilistic Models},
+  author={Stelzner, Karl and Peharz, Robert and Kersting, Kristian},
+  booktitle={Proceedings of the 36th International Conference on Machine Learning},
+  pages={5966--5975},
+  year={2019},
+  pdf = 	 {http://proceedings.mlr.press/v97/stelzner19a/stelzner19a.pdf},
+  url = 	 {http://proceedings.mlr.press/v97/stelzner19a.html}
+}
+```
+
+
