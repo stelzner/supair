@@ -58,4 +58,8 @@ If you find this repository, or the ideas presented within useful in your resear
 }
 ```
 
+## Acknowledgement
+This project received funding from the European Union's Horizon 2020 research
+and innovation programme under the Marie Sklodowska-Curie Grant Agreement No.
+797223 (HYBSPN).
 
